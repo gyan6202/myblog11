@@ -1,4 +1,7 @@
-package com.myblog.myblog11;
+package com.myblog.myblog11.Entity;
+
+
+
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
@@ -19,3 +22,4 @@ public class post {
     private String content;
 
 }
+
